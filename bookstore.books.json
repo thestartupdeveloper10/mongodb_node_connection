@@ -1,0 +1,266 @@
+[{
+  "_id": {
+    "$oid": "6591192380884ff1204591a6"
+  },
+  "title": "The Painted Man",
+  "author": [
+    "Peter V. Brett"
+  ],
+  "pages": 544,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "magical"
+  ],
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65911a1b80884ff1204591a8"
+  },
+  "title": "River between",
+  "author": [
+    "James kichuru"
+  ],
+  "pages": 300,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "thriller"
+  ],
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "65911a1b80884ff1204591a9"
+  },
+  "title": "The blossoms of savannah",
+  "author": [
+    "ibsen bet"
+  ],
+  "pages": 400,
+  "language": "English",
+  "genres": [
+    "magical"
+  ],
+  "rating": 7
+},
+{
+  "_id": {
+    "$oid": "65911a1b80884ff1204591aa"
+  },
+  "title": "Passenger 404",
+  "author": [
+    "justine bett"
+  ],
+  "pages": 420,
+  "language": "English",
+  "genres": [
+    "action",
+    "magical"
+  ],
+  "rating": 8
+},
+{
+  "_id": {
+    "$oid": "65911a1b80884ff1204591ab"
+  },
+  "title": "The fifty shades",
+  "author": [
+    "gason glock"
+  ],
+  "pages": 250,
+  "language": "English",
+  "genres": [
+    "romance",
+    "magical"
+  ],
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65911b97410530c40dccba80"
+  },
+  "title": "The captains game",
+  "author": [
+    "Lionel messi"
+  ],
+  "pages": 744,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "magical",
+    "football"
+  ],
+  "rating": 10
+},
+{
+  "_id": {
+    "$oid": "65911e3480884ff1204591ad"
+  },
+  "title": "Magical Match",
+  "author": [
+    "Lionel Messi"
+  ],
+  "pages": 600,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "sports",
+    "magic"
+  ],
+  "rating": 9.5
+},
+{
+  "_id": {
+    "$oid": "65911e3480884ff1204591ae"
+  },
+  "title": "Game of Legends",
+  "author": [
+    "Lionel Messi"
+  ],
+  "pages": 800,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "adventure",
+    "football"
+  ],
+  "rating": 9.2
+},
+{
+  "_id": {
+    "$oid": "65911e3480884ff1204591af"
+  },
+  "title": "Wizard's Kick",
+  "author": [
+    "Lionel Messi"
+  ],
+  "pages": 500,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "magical",
+    "soccer"
+  ],
+  "rating": 9.8
+},
+{
+  "_id": {
+    "$oid": "65911e3480884ff1204591b0"
+  },
+  "title": "The Enchanted Pitch",
+  "author": [
+    "Lionel Messi"
+  ],
+  "pages": 650,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "magic",
+    "sports"
+  ],
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "65911e3480884ff1204591b1"
+  },
+  "title": "Realm of Goals",
+  "author": [
+    "Lionel Messi"
+  ],
+  "pages": 700,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "football",
+    "adventure"
+  ],
+  "rating": 9.7
+},
+{
+  "_id": {
+    "$oid": "65911e3480884ff1204591b2"
+  },
+  "title": "Sorcerer's Soccer",
+  "author": [
+    "Lionel Messi"
+  ],
+  "pages": 550,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "magic",
+    "soccer"
+  ],
+  "rating": 9.3
+},
+{
+  "_id": {
+    "$oid": "65911e3480884ff1204591b3"
+  },
+  "title": "The Legendary Match",
+  "author": [
+    "Lionel Messi"
+  ],
+  "pages": 720,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "adventure",
+    "football"
+  ],
+  "rating": 9.6
+},
+{
+  "_id": {
+    "$oid": "65911e3480884ff1204591b4"
+  },
+  "title": "Spellbound Goals",
+  "author": [
+    "Lionel Messi"
+  ],
+  "pages": 680,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "magical",
+    "soccer"
+  ],
+  "rating": 9.4
+},
+{
+  "_id": {
+    "$oid": "65911e3480884ff1204591b5"
+  },
+  "title": "Champions of Magic",
+  "author": [
+    "Lionel Messi"
+  ],
+  "pages": 750,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "magic",
+    "football"
+  ],
+  "rating": 9.1
+},
+{
+  "_id": {
+    "$oid": "65911e3480884ff1204591b6"
+  },
+  "title": "The Mystical Game",
+  "author": [
+    "Lionel Messi"
+  ],
+  "pages": 600,
+  "language": "English",
+  "genres": [
+    "fantasy",
+    "magical",
+    "soccer"
+  ],
+  "rating": 9.9
+}]
